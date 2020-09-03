@@ -4,4 +4,4 @@ Here I will endeavour to share my personal journey in learning how to use techno
 
 ### Pages
 
-<a href="languages.html">Languages</a>
+<a href="languages.md">Languages</a>
